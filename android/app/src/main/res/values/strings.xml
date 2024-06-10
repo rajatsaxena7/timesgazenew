@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string name="app_name">TimesGaze</string>
+<string name="facebook_app_id">383074877818318</string>
+<string name="fb_login_protocol_scheme">fb383074877818318</string>
+<string name="facebook_client_token">c8ce579464633d16be2adb8e89a5ea63</string>
+
+</resources>
